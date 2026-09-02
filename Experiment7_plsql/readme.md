@@ -164,7 +164,7 @@ Largest of three number is 15
 ```
 SET SERVEROUTPUT ON;
 
-DECLARE
+DECLARE 
     a NUMBER := 10;
     b NUMBER := 9;
     c NUMBER := 15;
